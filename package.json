@@ -8,7 +8,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "antd": "^4.7.0",
+    "antd": "^4.15.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
