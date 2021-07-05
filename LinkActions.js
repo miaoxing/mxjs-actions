@@ -1,9 +1,9 @@
-import React from 'react';
+import { Children } from 'react';
 import {Divider} from 'antd';
 
 const LinkActions = ({children}) => {
   const actions = [];
-  React.Children.map(children, (child, i) => {
+  Children.map(children, (child, i) => {
     if (!child) {
       return;
     }

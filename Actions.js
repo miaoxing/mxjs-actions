@@ -1,8 +1,8 @@
-import React from 'react';
+import { Children } from 'react';
 
 const Actions = ({children}) => {
   const actions = [];
-  React.Children.map(children, (child) => {
+  Children.map(children, (child) => {
     if (!child) {
       return;
     }
