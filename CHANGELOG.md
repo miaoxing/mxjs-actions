@@ -1,3 +1,23 @@
+# [0.2.0](https://github.com/miaoxing/mxjs-actions/compare/v0.1.3...v0.2.0) (2021-10-28)
+
+
+### Features
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17 ([87f6ac4](https://github.com/miaoxing/mxjs-actions/commit/87f6ac40be8b24bbd31d71c7229f941ffeeb16ed))
+
+
+### BREAKING CHANGES
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-actions/compare/v0.1.2...v0.1.3) (2021-05-12)
 
 
