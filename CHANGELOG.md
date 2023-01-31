@@ -1,3 +1,10 @@
+## [0.2.7](https://github.com/miaoxing/mxjs-actions/compare/v0.2.6...v0.2.7) (2023-01-31)
+
+
+### Features
+
+* 更新 `antd` 到 `~4.24.7` ([70317a7](https://github.com/miaoxing/mxjs-actions/commit/70317a7e7edfb4c35189bf07076b46930d1852cc))
+
 ## [0.2.6](https://github.com/miaoxing/mxjs-actions/compare/v0.2.5...v0.2.6) (2023-01-01)
 
 
