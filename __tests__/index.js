@@ -26,6 +26,21 @@ describe('actions', () => {
     expect(result.container.innerText).toBeUndefined();
   });
 
+  test('Actions: divider', async () => {
+    const result = render(<Actions divider="2">
+      <a>test</a>
+      <a>test</a>
+    </Actions>);
+
+    expect(result.queryByText('2')).not.toBeNull();
+  });
+
+  test('Actions: empty', async () => {
+    const result = render(<Actions empty="no content"/>);
+
+    expect(result.queryByText('no content')).not.toBeNull();
+  });
+
   test('LinkActions: basic', async () => {
     const result = render(<LinkActions>
       <a>first</a>
