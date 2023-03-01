@@ -1,3 +1,11 @@
+## [0.2.8](https://github.com/miaoxing/mxjs-actions/compare/v0.2.7...v0.2.8) (2023-03-01)
+
+
+### Features
+
+* **actions:** `Actions` 增加 `divider` 和 `empty` 属性 ([114c9c9](https://github.com/miaoxing/mxjs-actions/commit/114c9c9d321f818cf732ac996954bfd57d9c673f))
+* **actions:** `LinkActions` 改为继承 `Actions` ([b6b4a64](https://github.com/miaoxing/mxjs-actions/commit/b6b4a64d0bf4bda08abab0c3fd2c7c2c6a1df66c))
+
 ## [0.2.7](https://github.com/miaoxing/mxjs-actions/compare/v0.2.6...v0.2.7) (2023-01-31)
 
 
