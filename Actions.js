@@ -1,10 +1,13 @@
 import {Children, Fragment} from 'react';
 import propTypes from 'prop-types';
+import {filterChildren} from '@mxjs/auth';
 
 const Actions = ({divider = ' ', empty = null, children}) => {
+  const result = filterChildren(children);
+
   const actions = [];
-  const max = Children.count(children) - 1;
-  Children.forEach(children, (child, index) => {
+  const max = Children.count(result) - 1;
+  Children.forEach(result, (child, index) => {
     if (!child) {
       return;
     }
