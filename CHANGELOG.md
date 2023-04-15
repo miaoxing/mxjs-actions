@@ -1,3 +1,18 @@
+## [0.2.9](https://github.com/miaoxing/mxjs-actions/compare/v0.2.8...v0.2.9) (2023-04-15)
+
+
+### Features
+
+* **actions:** `Actions` 子组件增加权限判断 ([288d332](https://github.com/miaoxing/mxjs-actions/commit/288d33216a7e6b6a0f761b0f053c73f6713d0d88))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/auth:** upgrade from `1.0.0` to `1.1.0`
+
 ## [0.2.8](https://github.com/miaoxing/mxjs-actions/compare/v0.2.7...v0.2.8) (2023-03-01)
 
 
