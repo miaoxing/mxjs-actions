@@ -1,3 +1,14 @@
+## [0.2.14](https://github.com/miaoxing/mxjs-actions/compare/v0.2.13...v0.2.14) (2023-11-30)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/auth:** upgrade from `1.1.4` to `1.1.5`
+* **@miaoxing/dev:** upgrade from `8.2.3` to `8.2.4`
+
 ## [0.2.13](https://github.com/miaoxing/mxjs-actions/compare/v0.2.12...v0.2.13) (2023-09-02)
 
 
