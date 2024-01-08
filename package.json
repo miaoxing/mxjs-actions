@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/actions",
-  "version": "0.2.15",
+  "version": "0.2.16",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -8,12 +8,12 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@mxjs/auth": "^1.1.6",
+    "@mxjs/auth": "^1.1.7",
     "antd": "~5.1.6"
   },
   "devDependencies": {
     "@testing-library/react": "^11.2.6",
-    "@miaoxing/dev": "^9.0.0",
+    "@miaoxing/dev": "^9.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
