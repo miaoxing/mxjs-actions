@@ -1,3 +1,18 @@
+## [0.2.17](https://github.com/miaoxing/mxjs-actions/compare/v0.2.16...v0.2.17) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([eaa3874](https://github.com/miaoxing/mxjs-actions/commit/eaa387432960019e696eea68a01f5133fede21f2))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/auth:** upgrade from `1.1.7` to `1.2.0`
+
 ## [0.2.16](https://github.com/miaoxing/mxjs-actions/compare/v0.2.15...v0.2.16) (2024-01-08)
 
 
