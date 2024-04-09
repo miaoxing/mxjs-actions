@@ -62,4 +62,14 @@ describe('actions', () => {
 
     expect(result.container.innerText).toBeUndefined();
   });
+
+  test('LinkActions: dont show divider if last is null', async () => {
+    const exists = false;
+    const result = render(<LinkActions divider="|">
+      <a>New</a>
+      {exists && <a>Edit</a>}
+    </LinkActions>);
+
+    expect(result.queryByText('|')).toBeNull();
+  });
 });

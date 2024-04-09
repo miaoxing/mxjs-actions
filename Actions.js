@@ -6,14 +6,14 @@ const Actions = ({divider = ' ', empty = null, children}) => {
   const result = filterChildren(children);
 
   const actions = [];
-  const max = Children.count(result) - 1;
+  const last = Children.count(result) - 1;
   Children.forEach(result, (child, index) => {
     if (!child) {
       return;
     }
 
     actions.push(child);
-    if (max !== index) {
+    if (last !== index && result[index + 1]) {
       actions.push(
         typeof divider === 'string' ? divider : <Fragment key={index}>{divider}</Fragment>,
       );
