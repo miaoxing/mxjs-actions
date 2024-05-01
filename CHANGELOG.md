@@ -1,3 +1,10 @@
+## [0.2.20](https://github.com/miaoxing/mxjs-actions/compare/v0.2.19...v0.2.20) (2024-05-01)
+
+
+### Bug Fixes
+
+* **action:** 如果最后一项为空，结尾不显示 `divider` ([2213add](https://github.com/miaoxing/mxjs-actions/commit/2213add81dface8ce4c8bf9c86d2cee88174f726))
+
 ## [0.2.19](https://github.com/miaoxing/mxjs-actions/compare/v0.2.18...v0.2.19) (2024-03-31)
 
 
