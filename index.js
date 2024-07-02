@@ -1,2 +1,7 @@
-export Actions from './Actions';
-export LinkActions from './LinkActions';
+import Actions from './Actions';
+import LinkActions from './LinkActions';
+
+export {
+  Actions,
+  LinkActions,
+};
