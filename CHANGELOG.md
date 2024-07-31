@@ -1,3 +1,19 @@
+## [0.2.21](https://github.com/miaoxing/mxjs-actions/compare/v0.2.20...v0.2.21) (2024-07-31)
+
+
+### Bug Fixes
+
+* `export default from` 改为标准语法 ([e3f40b0](https://github.com/miaoxing/mxjs-actions/commit/e3f40b0ba4e84d4dd75190ec0713e333561d2793))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/auth:** upgrade from `1.2.1` to `1.2.2`
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [0.2.20](https://github.com/miaoxing/mxjs-actions/compare/v0.2.19...v0.2.20) (2024-05-01)
 
 
