@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@mxjs/auth": "^1.2.3",
-    "antd": "~5.13"
+    "antd": "~5.19"
   },
   "devDependencies": {
     "@testing-library/react": "^14",
