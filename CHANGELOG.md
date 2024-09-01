@@ -1,3 +1,19 @@
+## [0.2.23](https://github.com/miaoxing/mxjs-actions/compare/v0.2.22...v0.2.23) (2024-09-01)
+
+
+### Features
+
+* 更新 `antd` 到 `~5.19` ([8102160](https://github.com/miaoxing/mxjs-actions/commit/8102160872af8ee073597c4cd973e85b5c04ed99))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/auth:** upgrade from `1.2.3` to `1.2.4`
+* **@miaoxing/dev:** upgrade from `9.1.3` to `9.2.0`
+
 ## [0.2.22](https://github.com/miaoxing/mxjs-actions/compare/v0.2.21...v0.2.22) (2024-08-03)
 
 
